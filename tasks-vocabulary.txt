@@ -1,0 +1,59 @@
+COSAS QUE MEJORAR: handlChange, hacer todos los states en 1 objeto
+                   optimizar ventanas modales
+		   VALUE en ventanas modales		   
+
+
+estilos a las tablas   _/ 
+
+navegador  _/
+
+background diseño single page js, scroll, fontawesome  __/
+
+Icono, título, metas   _/
+
+Cambiar nombre estadoVentanaEdicion, estadoVentanaBorrar, estadoVentanaAgregar   _/
+
+que no se pueda poner /login una vez logueado    _/
+
+Botón para agregar una, ver esos iconos tipo los q usaba papa del pincel, y ahi abro una modal con el formulario para agregar una palabra. _/
+
+
+mensajes de alerta    ---> LOGRAR CERRAR LA ALERTA A LOS 2 SEGUNDOS
+
+agregar mas campos a las palabras y nota de voz de pronunciación. 
+
+Api traductor, función de sección textos para leer, palabras q no entendes traducir y mandar a la lista.
+
+
+
+
+
+---------
+Axios apis, imagenes en firebase
+---------
+
+
+
+
+
+MIERCOLES:
+
+entrenar
+
+Mamá papa
+
+Ordenar pieza 
+
+Ordenar dias semana 
+
+Repositorio git 
+
+Mejoras pagina ingles 
+
+Finales y clases 
+
+Clase objetos
+
+Ver backend e idea encuestaz
+
+
